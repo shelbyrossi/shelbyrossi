@@ -1612,11 +1612,10 @@ input, select, textarea {
 				
 			}
 
-			.vinnyPic {
+			.vinnypic {
 			
 				width: 510px;
 				height: 510px;
-			
 				border: 2px solid goldenrod;
 				border-radius: 30px;
 				padding: 24px;
