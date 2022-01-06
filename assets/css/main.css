@@ -1572,14 +1572,7 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.fit {
-			display: block;
-			width: 60%;
-			margin: 40px;
-			border: 2px solid goldenrod;
-				border-radius: 30px;
-				padding: 24px;
-		}
+	
 
 		.image.featured {
 			display: block;
@@ -1616,6 +1609,19 @@ input, select, textarea {
 				border: 2px solid goldenrod;
 				border-radius: 30px;
 				padding: 24px;
+				
+			}
+
+			.vinnyPic {
+			
+				width: 510px;
+				height: 510px;
+			
+				border: 2px solid goldenrod;
+				border-radius: 30px;
+				padding: 24px;
+				margin: 36px;
+			
 				
 			}
 
@@ -2226,4 +2232,4 @@ input, select, textarea {
 				margin-left: 0.5em;
 			}
 
-		}
+		}				
