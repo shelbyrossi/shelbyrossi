@@ -1604,24 +1604,29 @@ input, select, textarea {
 			}
 
 			.biopic {
-				width: 310px;
-				height: 320px;
+				width: 50%;
+				height: 50%;
 				border: 2px solid goldenrod;
 				border-radius: 30px;
 				padding: 24px;
 				
 			}
 
-			.vinnypic {
+			.vinnyPic {
 			
-				width: 510px;
-				height: 510px;
+				width: 75%;
+				height: 75%;
 				border: 2px solid goldenrod;
 				border-radius: 30px;
 				padding: 24px;
 				margin: 36px;
 			
 				
+			}
+
+			.capstone {
+				font-size: 15px;
+				font-family: 'Source Sans Pro', sans-serif;
 			}
 
 /* Button */
@@ -2023,7 +2028,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 20em;
+				height: 32em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
